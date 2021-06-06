@@ -1,0 +1,7 @@
+D:\Doku\Sulik\Mechwart\Programozás\Komplex\Szamlazoprog\Szamlazoprog\bin\Debug\Szamlazoprog.exe.config
+D:\Doku\Sulik\Mechwart\Programozás\Komplex\Szamlazoprog\Szamlazoprog\bin\Debug\Szamlazoprog.exe
+D:\Doku\Sulik\Mechwart\Programozás\Komplex\Szamlazoprog\Szamlazoprog\bin\Debug\Szamlazoprog.pdb
+D:\Doku\Sulik\Mechwart\Programozás\Komplex\Szamlazoprog\Szamlazoprog\obj\Debug\Szamlazoprog.csprojAssemblyReference.cache
+D:\Doku\Sulik\Mechwart\Programozás\Komplex\Szamlazoprog\Szamlazoprog\obj\Debug\Szamlazoprog.csproj.CoreCompileInputs.cache
+D:\Doku\Sulik\Mechwart\Programozás\Komplex\Szamlazoprog\Szamlazoprog\obj\Debug\Szamlazoprog.exe
+D:\Doku\Sulik\Mechwart\Programozás\Komplex\Szamlazoprog\Szamlazoprog\obj\Debug\Szamlazoprog.pdb

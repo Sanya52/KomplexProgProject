@@ -1,0 +1,5 @@
+Mosógép 10 60000
+Tv 52 40000
+Zsebkendő 1 100
+Könyv 32 3000
+asztal 210 24000
